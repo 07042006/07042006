@@ -116,6 +116,7 @@
 
 <br/>  
 
+## Playing on Spotify
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31kkhovwxty62rl7uv3w42whftam&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=04ec5d" /></div>  
 
 <br/>  
