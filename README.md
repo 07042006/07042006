@@ -15,7 +15,7 @@
 - ❓ I like to talk about technologies that can revolutionize the market  
   
 
-- ⚡ Fun fact: I'm a gamer in my spare time  
+- ⚡ Fun fact: I'm a gamer in my spare time
   
 
 <br/>  
