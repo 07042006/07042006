@@ -6,16 +6,16 @@
 ### <div align="center">I'm Bruno, a part-time full-stack freelance developer👨‍💻</div>  
   
 
-- 🔭 I’m currently working at [Fox Devs](https://www.instagram.com/foxdevs/)  
+- 🔭 I currently work as CEO of [Fox Devs](https://www.instagram.com/foxdevs/).
   
 
-- 🌱 I’m currently learning React Native and Electron  
+- 🌱 I'm currently learning Ruby and Spring
   
 
-- ❓ I like to talk about technologies that can revolutionize the market  
+- ❓ I like to talk about technologies that can revolutionize the programming market. In addition to being a business enthusiast.
   
 
-- ⚡ Fun fact: I'm a gamer in my spare time
+- ⚡ I like traveling and discovering new places, people and books.
   
 
 <br/>  
