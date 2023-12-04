@@ -16,6 +16,8 @@
   
 
 - ⚡ I like traveling and discovering new places, people and books.
+
+![Snake animation](https://github.com/07042006/07042006/blob/main/github-contribution-grid-snake.svg)
   
 
 <br/>  
