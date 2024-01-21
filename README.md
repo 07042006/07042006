@@ -1,32 +1,51 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+## Seja bem-vindo ao meu perfil 😉
+ 
+<img src="https://static.wikia.nocookie.net/minecraft/images/f/fd/NetherPortalAnimated.gif/revision/latest?cb=20200112000746" min-width="150px" max-width="150px" width="150px" align="right" alt="Bem vindo ao meu perfil">
 
-### <div align="center">I'm Bruno, a part-time full-stack freelance developer👨‍💻</div>  
-  
+<p align="left"> 
+  Olá, sou Bruno Nascimento, um entusiasta e desenvolvedor de Softwares FullStack, atualmente aspirando a me tornar um Engenheiro de Softwares de destaque. 🚀 Minha jornada no mundo do desenvolvimento é marcada por uma paixão contínua por aprender e aprimorar minhas habilidades.
 
-- 🔭 I currently work as CEO of [Fox Devs](https://www.instagram.com/foxdevs/).
-  
+Apesar dos desafios, sou o orgulhoso proprietário da empresa Fox Devs, onde trabalho arduamente para oferecer soluções inovadoras e eficientes para meus clientes. Meu trabalho é dedicado a enfrentar os desafios mais complexos e a transformar ideias em produtos de software de alta qualidade. 💻🔧
 
-- 🌱 I'm currently learning Ruby and Spring
-  
+Em minha trajetória profissional, enfrentei alguns obstáculos, incluindo experiências negativas na plataforma Workana. No entanto, encaro esses momentos como oportunidades de crescimento e aprendizado, buscando constantemente a excelência em meu trabalho. 📈
 
-- ❓ I like to talk about technologies that can revolutionize the programming market. In addition to being a business enthusiast.
-  
+Fora do mundo da programação, encontro grande prazer em explorar o vasto universo dos jogos casuais. Sou um entusiasta de títulos como Minecraft, Euro Truck e GTA, mergulhando em mundos virtuais para relaxar e liberar minha criatividade. Acredito que os jogos são uma forma única de expressão e entretenimento, proporcionando momentos de descontração e escapismo. 🎮
 
-- ⚡ I like traveling and discovering new places, people and books.
+Além disso, minha vida pessoal é marcada por um compromisso significativo, pois estou noivo, compartilhando momentos especiais com minha parceira. A jornada rumo ao casamento é emocionante, e estou ansioso para construir um futuro sólido e promissor ao lado de alguém tão especial. 💍❤️
 
-![Snake animation](https://github.com/07042006/07042006/blob/main/github-contribution-grid-snake.svg)
-  
+Outro aspecto importante da minha vida é o gosto por viajar. Explorar novos lugares, culturas e experiências é algo que sempre me fascinou. Viajar não apenas amplia meus horizontes, mas também proporciona inspiração e novas perspectivas, enriquecendo minha vida de maneiras inimagináveis. 🌍✈️
 
-<br/>  
+Em resumo, sou Bruno Nascimento, um desenvolvedor apaixonado, empresário determinado, amante de jogos casuais, noivo comprometido e um entusiasta das viagens. Minha jornada está em constante evolução, e estou ansioso para os desafios e conquistas que o futuro reserva. 🌟
+</p>
+<hr>
+<p align="left">
+  📔 Livro que estou lendo no momento: <strong>Como Fazer Amigos e Influenciar Pessoas - Dale Carnegie</strong>
+</p>
 
+<p align="center">
+  <a href="https://twitter.com/foxdevsofc" target="_blank">
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  </a>
 
-## My Skill Set  
+  <a href="https://dev.to/brunofox" target="_blank">
+    <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+  </a>
+
+  <a href="https://linkedin.com/in/bruno-fox-211779199" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+
+  <a href="https://instagram.com/brunofox_oficial" target="_blank">
+    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  </a>
+
+  <a href="https://www.youtube.com/user/brunonascimento5191" target="_blank">
+    <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+  </a>  
+</p>  
+
+## Meu arsenal de habilidades
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -45,8 +64,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -70,8 +87,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -86,55 +101,14 @@
 
 <br/>  
 
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/07042006" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/foxdevsofc" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/brunofox" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/bruno-fox-211779199" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/brunofox_oficial" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/brunonascimento5191" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=07042006&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="center" /></div>  
-
-<br/>  
-
-## Playing on Spotify
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31kkhovwxty62rl7uv3w42whftam&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=04ec5d" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=07042006&&style=flat-square" align="center" />
 </div>  
   
-
 <br/>  
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/brunofox" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
+                <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/>
+            </a>
+</div>
