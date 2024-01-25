@@ -11,6 +11,8 @@ Em minha trajetória profissional, enfrentei alguns obstáculos, incluindo exper
 
 Fora do mundo da programação, encontro grande prazer em explorar o vasto universo dos jogos casuais. Sou um entusiasta de títulos como Minecraft, Euro Truck e GTA, mergulhando em mundos virtuais para relaxar e liberar minha criatividade. Acredito que os jogos são uma forma única de expressão e entretenimento, proporcionando momentos de descontração e escapismo. 🎮
 
+<img src="https://i.gifer.com/origin/d1/d1c5dbedf0c20a16b79e6232e50ebd45_w200.webp" min-width="150px" max-width="150px" width="150px" align="left" alt="Bem vindo ao meu perfil">
+
 Além disso, minha vida pessoal é marcada por um compromisso significativo, pois estou noivo, compartilhando momentos especiais com minha parceira. A jornada rumo ao casamento é emocionante, e estou ansioso para construir um futuro sólido e promissor ao lado de alguém tão especial. 💍❤️
 
 Outro aspecto importante da minha vida é o gosto por viajar. Explorar novos lugares, culturas e experiências é algo que sempre me fascinou. Viajar não apenas amplia meus horizontes, mas também proporciona inspiração e novas perspectivas, enriquecendo minha vida de maneiras inimagináveis. 🌍✈️
