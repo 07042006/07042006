@@ -1,6 +1,6 @@
-## Seja bem-vindo ao meu perfil 😉
+## Seja bem-vindo ao meu perfil 😉☕
  
-<img src="https://static.wikia.nocookie.net/minecraft/images/f/fd/NetherPortalAnimated.gif/revision/latest?cb=20200112000746" min-width="150px" max-width="150px" width="150px" align="right" alt="Bem vindo ao meu perfil">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJ5MWJjdWJjNWVtMThjbmc3YzNkazR6bjRzaDB2bXd2ajVleXd0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZbQ6C34PmI9n7ETkbm/giphy.gif" min-width="150px" max-width="150px" width="150px" align="right" alt="Bem vindo ao meu perfil">
 
 <p align="left"> 
   Olá, sou Bruno Nascimento, um entusiasta e desenvolvedor de Softwares FullStack, atualmente aspirando a me tornar um Engenheiro de Softwares de destaque. 🚀 Minha jornada no mundo do desenvolvimento é marcada por uma paixão contínua por aprender e aprimorar minhas habilidades.
@@ -11,13 +11,13 @@ Em minha trajetória profissional, enfrentei alguns obstáculos, incluindo exper
 
 Fora do mundo da programação, encontro grande prazer em explorar o vasto universo dos jogos casuais. Sou um entusiasta de títulos como Minecraft, Euro Truck e GTA, mergulhando em mundos virtuais para relaxar e liberar minha criatividade. Acredito que os jogos são uma forma única de expressão e entretenimento, proporcionando momentos de descontração e escapismo. 🎮
 
-<img src="https://i.gifer.com/origin/d1/d1c5dbedf0c20a16b79e6232e50ebd45_w200.webp" min-width="150px" max-width="150px" width="150px" align="left" alt="Bem vindo ao meu perfil">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBhODMycGRrenRzdWlmYXVicXk4bWt1Y3ozaXRjMm1vazlwMzQzbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8ccWJJXxyhKbzYboOb/giphy.gif" min-width="150px" max-width="150px" width="150px" align="left" alt="Bem vindo ao meu perfil">
 
 Além disso, minha vida pessoal é marcada por um compromisso significativo, pois estou noivo, compartilhando momentos especiais com minha parceira. A jornada rumo ao casamento é emocionante, e estou ansioso para construir um futuro sólido e promissor ao lado de alguém tão especial. 💍❤️
 
 Outro aspecto importante da minha vida é o gosto por viajar. Explorar novos lugares, culturas e experiências é algo que sempre me fascinou. Viajar não apenas amplia meus horizontes, mas também proporciona inspiração e novas perspectivas, enriquecendo minha vida de maneiras inimagináveis. 🌍✈️
 
-Em resumo, sou Bruno Nascimento, um desenvolvedor apaixonado, empresário determinado, amante de jogos casuais, noivo comprometido e um entusiasta das viagens. Minha jornada está em constante evolução, e estou ansioso para os desafios e conquistas que o futuro reserva. 🌟
+Em resumo, sou Bruno Nascimento, um desenvolvedor apaixonado, empresário determinado, amante de jogos casuais, noivo comprometido, um entusiasta das viagens e, não posso esquecer, apaixonado por café. Minha jornada está em constante evolução, e estou ansioso para os desafios e conquistas que o futuro reserva. 🌟
 </p>
 <hr>
 <p align="left">
