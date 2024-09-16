@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/Ec4QbFUnuNxzfbSlKk/giphy.gif?cid=790b7611y7y0gdkarhh8sovixnx5f57zp7q4bewgb94ayyph&ep=v1_stickers_search&rid=giphy.gif&ct=s" min-width="150px" max-width="150px" width="150px" align="right" alt="Bem vindo ao meu perfil">
 
 <p align="left"> 
-  Olá, sou Bruno Nascimento, um entusiasta e desenvolvedor de Softwares FullStack, atualmente aspirando a me tornar um Engenheiro de Softwares de destaque. 🚀 Minha jornada no mundo do desenvolvimento é marcada por uma paixão contínua por aprender e aprimorar minhas habilidades.
+  Olá, sou Bruno, um entusiasta e desenvolvedor de Softwares FullStack, atualmente aspirando a me tornar um Engenheiro de Softwares de destaque. 🚀 Minha jornada no mundo do desenvolvimento é marcada por uma paixão contínua por aprender e aprimorar minhas habilidades.
 
 Apesar dos desafios, sou o orgulhoso proprietário da empresa Fox Devs, onde trabalho arduamente para oferecer soluções inovadoras e eficientes para meus clientes. Meu trabalho é dedicado a enfrentar os desafios mais complexos e a transformar ideias em produtos de software de alta qualidade. 💻🔧
 
@@ -17,34 +17,12 @@ Além disso, minha vida pessoal é marcada por um compromisso significativo, poi
 
 Outro aspecto importante da minha vida é o gosto por viajar. Explorar novos lugares, culturas e experiências é algo que sempre me fascinou. Viajar não apenas amplia meus horizontes, mas também proporciona inspiração e novas perspectivas, enriquecendo minha vida de maneiras inimagináveis. 🌍✈️
 
-Em resumo, sou Bruno Nascimento, um desenvolvedor apaixonado, empresário determinado, amante de jogos casuais, noivo comprometido, um entusiasta das viagens e, não posso esquecer, apaixonado por café. Minha jornada está em constante evolução, e estou ansioso para os desafios e conquistas que o futuro reserva. 🌟
+Em resumo, sou Bruno, um desenvolvedor apaixonado, empresário determinado, amante de jogos casuais, noivo comprometido, um entusiasta das viagens e, não posso esquecer, apaixonado por café. Minha jornada está em constante evolução, e estou ansioso para os desafios e conquistas que o futuro reserva. 🌟
 </p>
 <hr>
 <p align="left">
   📔 Livro que estou lendo no momento: <strong>Como Fazer Amigos e Influenciar Pessoas - Dale Carnegie</strong>
 </p>
-
-<p align="center">
-  <a href="https://twitter.com/foxdevsofc" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-  </a>
-
-  <a href="https://dev.to/brunofox" target="_blank">
-    <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-  </a>
-
-  <a href="https://linkedin.com/in/bruno-fox-211779199" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-
-  <a href="https://instagram.com/brunofox_oficial" target="_blank">
-    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  </a>
-
-  <a href="https://www.youtube.com/user/brunonascimento5191" target="_blank">
-    <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-  </a>  
-</p>  
 
 ## Meu arsenal de habilidades
 <table><tr><td valign="top" width="33%">
@@ -107,10 +85,4 @@ Em resumo, sou Bruno Nascimento, um desenvolvedor apaixonado, empresário determ
 <img src="https://komarev.com/ghpvc/?username=07042006&&style=flat-square" align="center" />
 </div>  
   
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/brunofox" target="_blank" style="display: inline-block;">
-                <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/>
-            </a>
-</div>
+<br/> 
