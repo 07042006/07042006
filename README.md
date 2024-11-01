@@ -1,27 +1,23 @@
-## Seja bem-vindo ao meu perfil 😉☕
+## Que bom te ver por aqui! 👋 Pega um café ☕ e aproveite para explorar meus projetos e ideias.😉
  
-<img src="https://media.giphy.com/media/Ec4QbFUnuNxzfbSlKk/giphy.gif?cid=790b7611y7y0gdkarhh8sovixnx5f57zp7q4bewgb94ayyph&ep=v1_stickers_search&rid=giphy.gif&ct=s" min-width="150px" max-width="150px" width="150px" align="right" alt="Bem vindo ao meu perfil">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2d2bHIwbjd1aXJ0YTQ5aTB2NGFvcXZyYzV4YjM3Y3QycXMza3FuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.webp" min-width="250px" max-width="250px" width="250px" align="right" alt="Gatinho programador tentando resolver bug">
 
 <p align="left"> 
-  Olá, sou Bruno, um entusiasta e desenvolvedor de Softwares FullStack, atualmente aspirando a me tornar um Engenheiro de Softwares de destaque. 🚀 Minha jornada no mundo do desenvolvimento é marcada por uma paixão contínua por aprender e aprimorar minhas habilidades.
+  Olá! Sou Bruno, desenvolvedor Full Stack e proprietário da Fox Devs, programador freelancer com um objetivo bem claro: me destacar como engenheiro de software e levar a inovação digital a novos patamares. 🚀 Minha trajetória é alimentada por uma sede insaciável de aprendizado, e cada projeto que assumo é uma nova oportunidade de transformar ideias em soluções de alto impacto. 🦊
 
-Apesar dos desafios, sou o orgulhoso proprietário da empresa Fox Devs, onde trabalho arduamente para oferecer soluções inovadoras e eficientes para meus clientes. Meu trabalho é dedicado a enfrentar os desafios mais complexos e a transformar ideias em produtos de software de alta qualidade. 💻🔧
+Na Fox Devs, trabalho com uma mentalidade orientada à resolução de desafios complexos, focando em entregar produtos que realmente fazem a diferença para meus clientes. Superar obstáculos faz parte do meu dia a dia – inclusive experiências desafiadoras, como na Workana, que vejo como degraus na escada do meu desenvolvimento. Cada experiência contribui para meu compromisso contínuo com a excelência. 📈💻
 
-Em minha trajetória profissional, enfrentei alguns obstáculos, incluindo experiências negativas na plataforma Workana. No entanto, encaro esses momentos como oportunidades de crescimento e aprendizado, buscando constantemente a excelência em meu trabalho. 📈
+Quando não estou mergulhado no código, relaxo explorando universos virtuais ao lado de amigos em jogos como Minecraft, Euro Truck, GTA e outros. Além dos games, me aventuro em livros que alimentam minha criatividade e aprimoram meu pensamento crítico. 📚🎮
 
-Fora do mundo da programação, encontro grande prazer em explorar o vasto universo dos jogos casuais. Sou um entusiasta de títulos como Minecraft, Euro Truck e GTA, mergulhando em mundos virtuais para relaxar e liberar minha criatividade. Acredito que os jogos são uma forma única de expressão e entretenimento, proporcionando momentos de descontração e escapismo. 🎮
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhxcXE2eDZiZDQ3OGh1ODQ3YjhiOWo4enpsbmxjYzB4Y3g1MGhyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13USqh5fJ2XnIk/giphy.webp" min-width="250px" max-width="250px" width="250px" align="left" alt="I need more coffee">
 
-<img src="https://media.giphy.com/media/VkWWn2mu4iYDK/giphy.gif?cid=790b7611qlwz14ayfzwl8oq1n98n4q56o887m36mvoa5i0fq&ep=v1_stickers_search&rid=giphy.gif&ct=s" min-width="150px" max-width="150px" width="150px" align="left" alt="Bem vindo ao meu perfil">
+Na vida pessoal, sou casado e compartilho uma jornada emocionante com minha esposa, enquanto construímos um futuro sólido juntos. 💍❤️ Também sou um viajante curioso e estou sempre em busca de novas paisagens e culturas para explorar, acreditando que cada destino oferece uma visão única que enriquece a vida e o trabalho. 🌍✈️
 
-Além disso, minha vida pessoal é marcada por um compromisso significativo, pois estou noivo, compartilhando momentos especiais com minha parceira. A jornada rumo ao casamento é emocionante, e estou ansioso para construir um futuro sólido e promissor ao lado de alguém tão especial. 💍❤️
-
-Outro aspecto importante da minha vida é o gosto por viajar. Explorar novos lugares, culturas e experiências é algo que sempre me fascinou. Viajar não apenas amplia meus horizontes, mas também proporciona inspiração e novas perspectivas, enriquecendo minha vida de maneiras inimagináveis. 🌍✈️
-
-Em resumo, sou Bruno, um desenvolvedor apaixonado, empresário determinado, amante de jogos casuais, noivo comprometido, um entusiasta das viagens e, não posso esquecer, apaixonado por café. Minha jornada está em constante evolução, e estou ansioso para os desafios e conquistas que o futuro reserva. 🌟
+Enfim, sou Bruno: um desenvolvedor determinado, um entusiasta de jogos e livros, um empresário, e – claro! – um verdadeiro amante de café. Meu percurso no mundo da tecnologia é dinâmico e estou ansioso pelas realizações que ainda estão por vir. 🌟
 </p>
 <hr>
 <p align="left">
-  📔 Livro que estou lendo no momento: <strong>Como Fazer Amigos e Influenciar Pessoas - Dale Carnegie</strong>
+  📔 Livro que estou lendo no momento: <strong>Nada pode me ferir -  David Goggins</strong>
 </p>
 
 ## Meu arsenal de habilidades
@@ -48,12 +44,12 @@ Em resumo, sou Bruno, um desenvolvedor apaixonado, empresário determinado, aman
 ### Backend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+  <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" alt="Kotlin" height="50" /></a> 
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.ruby-lang.org/en/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" /></a>  
@@ -78,6 +74,9 @@ Em resumo, sou Bruno, um desenvolvedor apaixonado, empresário determinado, aman
 </div>
 
 </td></tr></table>  
+
+## Últimos posts
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@brunonascimentodeveloper/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@brunonascimentodeveloper/0" alt="Post Recente">
 
 <br/>  
 
