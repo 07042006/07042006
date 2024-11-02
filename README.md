@@ -78,6 +78,8 @@ Enfim, sou Bruno: um desenvolvedor determinado, um entusiasta de jogos e livros,
 ## Últimos posts
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@brunonascimentodeveloper/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@brunonascimentodeveloper/0" alt="Post Recente">
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@brunonascimentodeveloper/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@brunonascimentodeveloper/1" alt="Post Recente">
+
 <br/>  
 
 <div align="center">
