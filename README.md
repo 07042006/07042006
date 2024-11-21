@@ -15,9 +15,19 @@ Na vida pessoal, sou casado e compartilho uma jornada emocionante com minha espo
 
 Enfim, sou Bruno: um desenvolvedor determinado, um entusiasta de jogos e livros, um empresário, e – claro! – um verdadeiro amante de café. Meu percurso no mundo da tecnologia é dinâmico e estou ansioso pelas realizações que ainda estão por vir. 🌟
 </p>
-<hr>
-<p align="left">
-  📔 Livro que estou lendo no momento: <strong>Nada pode me ferir -  David Goggins</strong>
+
+## 📔 Livros que estou lendo no momento
+<p align="center">
+  <div align="center" justify-content="center">
+    <div style="text-align: center;">
+      <img src="https://m.media-amazon.com/images/I/71HuZRl-XeL._SY425_.jpg" width="150" height="225">
+      <div><strong>Essencialismo:</strong> A disciplinada busca por menos</div>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://m.media-amazon.com/images/I/51Pw06uU8FL._SY445_SX342_.jpg" width="150" height="225">
+      <div><strong>O poder do hábito:</strong> Por que fazemos o que fazemos na vida e nos negócios </div>
+    </div>
+  </div>
 </p>
 
 ## Meu arsenal de habilidades
