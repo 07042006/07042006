@@ -3,17 +3,17 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2d2bHIwbjd1aXJ0YTQ5aTB2NGFvcXZyYzV4YjM3Y3QycXMza3FuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.webp" min-width="250px" max-width="250px" width="250px" align="right" alt="Gatinho programador tentando resolver bug">
 
 <p align="left"> 
-  Olá! Sou Bruno, desenvolvedor Full Stack e proprietário da Fox Devs, programador freelancer com um objetivo bem claro: me destacar como engenheiro de software e levar a inovação digital a novos patamares. 🚀 Minha trajetória é alimentada por uma sede insaciável de aprendizado, e cada projeto que assumo é uma nova oportunidade de transformar ideias em soluções de alto impacto. 🦊
+  A tecnologia sempre me fascinou pela infinidade de possibilidades que oferece. Foi essa curiosidade que me levou a trilhar meu caminho na programação de forma autodidata, explorando 📚 livros e desafios práticos para desenvolver minhas habilidades. Hoje, sou um desenvolvedor Full Stack 💻, com domínio em Java, JavaScript e Python, construindo soluções eficientes e escaláveis para diversos projetos.
 
-Na Fox Devs, trabalho com uma mentalidade orientada à resolução de desafios complexos, focando em entregar produtos que realmente fazem a diferença para meus clientes. Superar obstáculos faz parte do meu dia a dia – inclusive experiências desafiadoras, como na Workana, que vejo como degraus na escada do meu desenvolvimento. Cada experiência contribui para meu compromisso contínuo com a excelência. 📈💻
-
-Quando não estou mergulhado no código, relaxo explorando universos virtuais ao lado de amigos em jogos como Minecraft, Euro Truck, GTA e outros. Além dos games, me aventuro em livros que alimentam minha criatividade e aprimoram meu pensamento crítico. 📚🎮
+Ao longo da minha jornada, enfrentei desafios como a falta de equipamentos no início da carreira ⚙️, mas, com determinação, fui aprimorando meu setup e expandindo meu conhecimento. Trabalho com metodologias ágeis 🚀, buscando sempre otimizar processos e entregar produtos de alto valor para meus clientes. Como freelancer, atuei em projetos na comunidade Workana, ajudando empresas e empreendedores a transformar suas ideias em realidade.
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhxcXE2eDZiZDQ3OGh1ODQ3YjhiOWo4enpsbmxjYzB4Y3g1MGhyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13USqh5fJ2XnIk/giphy.webp" min-width="250px" max-width="250px" width="250px" align="left" alt="I need more coffee">
 
-Na vida pessoal, sou casado e compartilho uma jornada emocionante com minha esposa, enquanto construímos um futuro sólido juntos. 💍❤️ Também sou um viajante curioso e estou sempre em busca de novas paisagens e culturas para explorar, acreditando que cada destino oferece uma visão única que enriquece a vida e o trabalho. 🌍✈️
+Acredito que a programação é a área do futuro 🌍, e meu objetivo é contribuir para essa evolução, criando soluções inovadoras e impactantes. Nos próximos anos, pretendo consolidar minha carreira como desenvolvedor de software remoto 🏡, garantindo estabilidade financeira 💰 enquanto continuo explorando novas tecnologias.
 
-Enfim, sou Bruno: um desenvolvedor determinado, um entusiasta de jogos e livros, um empresário, e – claro! – um verdadeiro amante de café. Meu percurso no mundo da tecnologia é dinâmico e estou ansioso pelas realizações que ainda estão por vir. 🌟
+Fora do ambiente profissional, sou entusiasta de jogos cooperativos 🎮, onde a estratégia e o trabalho em equipe fazem toda a diferença, além de me aprofundar na leitura 📖 como forma de aprendizado contínuo. Minha filosofia de vida segue os princípios do minimalismo ✨, focando no que realmente importa para crescer tanto no aspecto pessoal quanto profissional.
+
+Se você busca um profissional comprometido, apaixonado por tecnologia e sempre pronto para encarar novos desafios, estou aberto a novas oportunidades e parcerias. 🤝🚀
 </p>
 
 ## 📔 Livros que estou lendo no momento
