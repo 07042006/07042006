@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Bruno Nascimento!
  
-### 💻 Desenvolvedor | Criando soluções inteligentes
+### 💻 Desenvolvedor FullStack | Criando soluções inteligentes
 🚀 Apaixonado por tecnologia, programação e inovação. Sempre buscando aprender novas tecnologias e melhorar minhas habilidades!
 
 ### 🛠️ Tecnologias & Ferramentas
