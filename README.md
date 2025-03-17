@@ -22,5 +22,5 @@
 </div>
 
 ### 📫 Onde me encontrar
-📧 **Email:** nascimentob840@gmail.com
+📧 **Email:** nascimentob840@gmail.com </br>
 ✈️ **Telegram:** https://t.me/brunonascimentoferreira
